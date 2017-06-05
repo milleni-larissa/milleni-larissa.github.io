@@ -1,0 +1,28 @@
+h1 {
+	font-size: 40px;
+	text-align: center;
+	font-family: arial;
+	background-color: lavender;
+}
+body{
+	background-color: AliceBlue;
+	
+}
+p {
+	text-align: justify;
+	font-family: arial;
+	
+}
+h2{
+	text-align: left;
+	font-family: arial;
+	background-color: lavender;
+}
+table, th, td {
+	border: 1px solid black;
+	text-align: left;
+	background-color: PaleGreen;
+}
+th {
+	background-color: LightSeaGreen; 
+}
